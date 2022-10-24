@@ -17,7 +17,7 @@ N/A
 
 ## Credits
 
-University of Oregon Coding Bootcamp 
+University of Oregon Coding Bootcamp and Xander Rapstine
 
 ## License 
 
